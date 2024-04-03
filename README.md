@@ -1,1 +1,1 @@
-# jenkins-test-one
+# Jenkisn course for students
